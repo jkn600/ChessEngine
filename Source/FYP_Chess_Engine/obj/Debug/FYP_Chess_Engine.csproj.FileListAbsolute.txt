@@ -1,0 +1,6 @@
+E:\My Documents\Uni Work\3rd Year\Computing Project\FYP_Chess_Engine\FYP_Chess_Engine\bin\Debug\FYP_Chess_Engine.exe.config
+E:\My Documents\Uni Work\3rd Year\Computing Project\FYP_Chess_Engine\FYP_Chess_Engine\bin\Debug\FYP_Chess_Engine.exe
+E:\My Documents\Uni Work\3rd Year\Computing Project\FYP_Chess_Engine\FYP_Chess_Engine\bin\Debug\FYP_Chess_Engine.pdb
+E:\My Documents\Uni Work\3rd Year\Computing Project\FYP_Chess_Engine\FYP_Chess_Engine\obj\Debug\FYP_Chess_Engine.csprojResolveAssemblyReference.cache
+E:\My Documents\Uni Work\3rd Year\Computing Project\FYP_Chess_Engine\FYP_Chess_Engine\obj\Debug\FYP_Chess_Engine.exe
+E:\My Documents\Uni Work\3rd Year\Computing Project\FYP_Chess_Engine\FYP_Chess_Engine\obj\Debug\FYP_Chess_Engine.pdb
